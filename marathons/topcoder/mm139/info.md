@@ -4,7 +4,7 @@ TCO22 Regional Marathon - Lightning Marathon Match 139
 
 August 5-8, 2022
 
-26/72 provisional rank
+26/72 provisional and final rank
 
 ## Approach
 
