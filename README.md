@@ -12,4 +12,4 @@ Codeforces: [amaturecoder](https://codeforces.com/profile/amaturecoder)
 
 Archive: https://competitiveprogramming.info/topcoder/marathon
 
-Personal rankings: https://competitiveprogramming.info/topcoder/marathon/history/AmAtUrECoDeR
+Personal rankings (up to MM 128): https://competitiveprogramming.info/topcoder/marathon/history/AmAtUrECoDeR (archive: https://archive.ph/QK7Cw)
